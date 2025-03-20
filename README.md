@@ -5,9 +5,9 @@
 
 ---
 
-Welcome to my GitHub profile! I'm a Business Analyst passionate about turning data into meaningful insights using tools like Power BI, SQL, Excel, Tableau.
+Welcome to my GitHub profile! I'm a Business Analyst, passionate about turning data into meaningful insights using tools like Power BI, SQL, Excel, Tableau.
 
-### About Me
+### 😄 **About Me**
 
 - 🌱 **I’m currently learning:** Advanced Analysis, Power BI, Tableau, SQL, Excel
 - 👯 **I’m looking to collaborate on:** Business Analytics projects, Data Visualization, Power BI Dashboards.
