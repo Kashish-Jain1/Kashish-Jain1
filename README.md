@@ -19,14 +19,14 @@ Analytical and Success-driven Business Analyst with expertise in transforming ra
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I enjoy simplifying complex business problems by transforming raw data into actionable insights and interactive storytelling.
 
-### **Skills**
-- Languages: SQL
-- Data Transformation: Excel, Power Query.
-- Business Intelligence: Power BI, Tableau.
-- Reporting & Documentation: MS Word, MS PowerPoint.
-- Soft Skills: Presentation Skills, Articulation Skills, Critical Thinking.
+### 💡 **Skills**
+- **Languages:** SQL
+- **Data Transformation:** Excel, Power Query.
+- **Business Intelligence:** Power BI, Tableau.
+- **Reporting & Documentation:** MS Word, MS PowerPoint.
+- **Soft Skills:** Presentation Skills, Articulation Skills, Critical Thinking.
 
-### : **Professional Experience**
+### 💼 **Professional Experience**
 **Analogica Software Dev Pvt Ltd**
 **Business Analyst Intern:** Oct 2024 - April 2025
 - As a Business Analyst Intern at Analogica, I applied data transformation, data analysis, data visualization skills to convert raw data into actionable insights supporting business decision-making. 
