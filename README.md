@@ -40,7 +40,7 @@ Executed all the necessary findings, later connected to Power BI and assessed ke
 - **World Population Analysis:** **Tools:-** Excel, Tableau.
 Utilized Tableau to visualize population growth, density, demographic trends and geographic norms to provide insights for economic and social impact.
 
-### :Scroll: **Certifications**
+### 📜 **Certifications**
 - **Business Analytics** - Certisured
 - **Tally Prime** - Cadd Nest
 
