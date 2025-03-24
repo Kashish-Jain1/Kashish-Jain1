@@ -15,7 +15,7 @@ Analytical and Success-driven Business Analyst with expertise in transforming ra
 - 🌱 **I’m currently learning:** Advanced Analysis, Power BI, Tableau, SQL, Excel
 - 👯 **I’m looking to collaborate on:** Business Analytics projects, Data Visualization, Power BI Dashboards.
 - 💬 **Ask me about:** Power BI, Excel, SQL, Data Visualization.
-- 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/kashish-jain-b81828243) | [Email] (jainkashish952@gmail.com)
+- 📫 **How to reach me:** [LinkedIn] (www.linkedin.com/in/kashish-jain-b81828243) | [Email] (jainkashish952@gmail.com)
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I enjoy simplifying complex business problems by transforming raw data into actionable insights and interactive storytelling.
 
