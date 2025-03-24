@@ -5,7 +5,9 @@
 
 ---
 
-Welcome to my GitHub profile! I'm a Business Analyst, passionate about turning data into meaningful insights using tools like Power BI, SQL, Excel, Tableau.
+Welcome to my GitHub profile! 
+**Professional Summary**
+Analytical and Success-driven Business Analyst with expertise in transforming raw data into impactful business insights. Proficient in using tools like Power BI, Excel, Tableau and SQL with hands on experience in sales analysis, supply chain optimization. Skilled in data storytelling and presenting findings to stakeholders to drive strategic decision-making. Seeking to contribute analytical and visualization skills in Business Analyst role.
 
 ### 😄 **About Me**
 
@@ -15,6 +17,10 @@ Welcome to my GitHub profile! I'm a Business Analyst, passionate about turning d
 - 📫 **How to reach me:** [LinkedIn] (www.linkedin.com/in/kashish-jain-b81828243) | [Email] (jainkashish952@gmail.com)
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I enjoy simplifying complex business problems by transforming raw data into actionable insights and interactive storytelling.
+
+### 📚 **Education**
+- **Bachelor's Of Commerce** - Seshdripuram Degree College
+- **PUC (MEBA)** - Seshadripuram Composite College
 
 ### :pushpin: **Technical Skills**
 - **Business Intelligence Tools:** Power BI, Tableau
@@ -32,6 +38,18 @@ Designed a Supply Chain Report by first importing the raw data into the MySQL wo
 Executed all the necessary findings, later connected to Power BI and assessed key metrics like; OTIF, LIFR and VOFR to identify the inefficiencies in deliveries and improve Supply Chain Operations.
 - **World Population Analysis:** **Tools:-** Excel, Tableau.
 Utilized Tableau to visualize population growth, density, demographic trends and geographic norms to provide insights for economic and social impact.
+
+### **Certifications**
+- **Business Analytics** - Certisured
+- **Tally Prime** - Cadd Nest
+
+### 🏅 **Achievements**
+- **Facilitated Power BI Workshop:**
+Served as a Business Analyst instructor at KLE College, effectively teaching various Power BI concepts to students, including Data Visualization, Data Modeling, Dashboard Design enhancing their practical skills, critical thinking abilities and knowledge.
+
+- **Showcased Presentation and Communication Skills:**
+Utilized Presentation and Articulation Skills to simplify complex Power BI concepts and by giving real life examples, ensuring clarity and engagement. Facilitated interactive discussions and Q&A sessions, enhancing students learning experience. 
+
 
 ---
 
