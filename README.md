@@ -5,8 +5,9 @@
 
 ---
 
-Welcome to my GitHub profile! 
-**Professional Summary**
+**Welcome to my GitHub profile!** 
+
+### **Professional Summary**
 Analytical and Success-driven Business Analyst with expertise in transforming raw data into impactful business insights. Proficient in using tools like Power BI, Excel, Tableau and SQL with hands on experience in sales analysis, supply chain optimization. Skilled in data storytelling and presenting findings to stakeholders to drive strategic decision-making. Seeking to contribute analytical and visualization skills in Business Analyst role.
 
 ### 😄 **About Me**
@@ -39,7 +40,7 @@ Executed all the necessary findings, later connected to Power BI and assessed ke
 - **World Population Analysis:** **Tools:-** Excel, Tableau.
 Utilized Tableau to visualize population growth, density, demographic trends and geographic norms to provide insights for economic and social impact.
 
-### **Certifications**
+### :Scroll: **Certifications**
 - **Business Analytics** - Certisured
 - **Tally Prime** - Cadd Nest
 
